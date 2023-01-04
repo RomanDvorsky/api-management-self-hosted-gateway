@@ -39,7 +39,7 @@ gateway:
     additional: {}
   auth:
     # When an existing secret is configured, the value specified here will not be used
-    key:
+    key: 
 
 secret:
   createSecret: true
